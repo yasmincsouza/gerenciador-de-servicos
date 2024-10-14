@@ -41,7 +41,7 @@ O **Gerenciador de Serviços** é um aplicativo web desenvolvido em **React** qu
 
    Abra o terminal e execute o seguinte comando para clonar o repositório:
 
-   git clone https://github.com/seu-usuario/meu-gerenciador-de-servicos.git
+   git clone https://github.com/yasmincsouza/gerenciador-de-servicos.git<br>
    cd meu-gerenciador-de-servicos
 
 2. **Instalar as Dependências**
