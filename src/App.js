@@ -1,6 +1,3 @@
-// DESENVOLVIMENTO DE APLICAÇÕES MÓVEIS - 123
-// Yasmin Cristina de Souza - 2020101033 
-
 import React, { useState } from 'react';
 import ProductList from './components/ProductList';
 import Cart from './components/Cart';

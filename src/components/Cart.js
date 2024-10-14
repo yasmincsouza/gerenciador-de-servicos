@@ -1,6 +1,3 @@
-// DESENVOLVIMENTO DE APLICAÇÕES MÓVEIS - 123
-// Yasmin Cristina de Souza - 2020101033 
-
 import React from 'react';
 import CartItem from './CartItem';
 
